@@ -1,0 +1,21 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+html div tr td{
+  font-weight:bold
+}
+
+*{
+ margin:0
+}
+
+button#backButton {бн} 
+
+var h1 = element1.clientHeight + num1;
+var h2 = element1.clientHeight + num2;
+
+var eleHeight = element1.clientHeight;
+var h1 = eleHeight + num1;
+var h2 = eleHeight + num2;
